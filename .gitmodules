@@ -1,0 +1,4 @@
+[submodule "MikuEngine"]
+	path = MikuEngine
+	url = https://github.com/staticaron/MikuEngine.git
+	branch = edge
